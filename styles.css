@@ -1,0 +1,30 @@
+table, td, th
+{;
+    border-collapse:collapse;
+    padding:2px 5px;
+}
+
+table
+{
+    border: 1px solid black;
+}
+
+tr:nth-child(odd) td{
+    background-color: #CCDDFF;
+}
+
+tr:first-child td, tr:nth-child(2) td{
+	border: 1px solid black;
+    font-weight: bold;
+    background-color: inherit;
+    text-align: center;
+}
+
+h1{
+    color: #008;
+    font-size: 110%;
+}
+
+iframe{
+	clear: both;
+}
