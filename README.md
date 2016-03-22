@@ -2,6 +2,8 @@
 Download google spreadsheets as HTML files, remove unneeded content (HTML tags and attributes), print clean HTML tables.
 
 The same script can be adapted to clean any HTML or XML file.
+
+[Demo](http://www.jumpopress.com/spreadsheets-to-html-demo-v2.0/index.php)
 ## Conception
 A client with an old static php site once asked for a way to edit  the price tables. Instead of switching to a CMS platform or teaching the client basic HTML syntax I came up with a small script to fetch spreadsheets from google drive and remove the unneeded content and styling.
 ## Fetching Google Drive tables
